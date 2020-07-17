@@ -1,0 +1,12 @@
+{
+  "name": "req-http",
+  "displayName": "req-http",
+  "expo": {
+    "name": "req-http",
+    "slug": "req-http",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
